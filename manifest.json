@@ -94,6 +94,54 @@
       ],
       "ast": [
         "aggregate/ast/229054099aa73f7e861762f687d7e07cac1d9b3b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/229054099aa73f7e861762f687d7e07cac1d9b3b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "zstd-safe",
+          "ecosystem": "CARGO",
+          "version": "7.1.0",
+          "githubOrg": "gyscos",
+          "githubRepo": "zstd-rs",
+          "githubUrl": "https://github.com/gyscos/zstd-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.0",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "humansize",
+          "ecosystem": "CARGO",
+          "version": "2.0",
+          "githubOrg": "LeopoldArkham",
+          "githubRepo": "humansize",
+          "githubUrl": "https://github.com/LeopoldArkham/humansize",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "partial-io",
+          "ecosystem": "CARGO",
+          "version": "0.5",
+          "githubOrg": "sunshowers-code",
+          "githubRepo": "partial-io",
+          "githubUrl": "https://github.com/sunshowers-code/partial-io",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "walkdir",
+          "ecosystem": "CARGO",
+          "version": "2.2",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "walkdir",
+          "githubUrl": "https://github.com/BurntSushi/walkdir",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
