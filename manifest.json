@@ -142,7 +142,9 @@
           "githubUrl": "https://github.com/BurntSushi/walkdir",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/229054099aa73f7e861762f687d7e07cac1d9b3b/chunk-001.nq.gz",
+      "dep": "dep/229054099aa73f7e861762f687d7e07cac1d9b3b.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
