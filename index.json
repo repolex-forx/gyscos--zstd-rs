@@ -1,0 +1,11 @@
+{
+  "org": "gyscos",
+  "repo": "zstd-rs",
+  "versions": [
+    {
+      "commit": "229054099aa73f7e861762f687d7e07cac1d9b3b",
+      "tag": "zstd-sys-2.0.15",
+      "parsed_at": "2026-11-22T10:45:28.810834+00:00"
+    }
+  ]
+}
